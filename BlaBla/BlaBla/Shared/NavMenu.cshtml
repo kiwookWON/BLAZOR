@@ -36,7 +36,10 @@
 </div>
 
 @functions {
-    bool collapseNavMenu = true;
+    [Parameter]
+    private string classStyle { get; set; } = "navbar-dark";
+
+    bool collapseNavMenu = false;
 
     void ToggleNavMenu()
     {
