@@ -1,0 +1,12 @@
+﻿@page "/parentInit"
+
+<h1>Page with Parameters</h1>
+
+<button type="button" onclick=@SwitchName>Switch Name</button>
+
+<Initialization Name=@Name />
+
+@functions {
+    private string Name { get; set; } = "Blazor";
+    private void SwitchName() => Name = Name == "Blazor" ? "John" : "Blazor";
+}
