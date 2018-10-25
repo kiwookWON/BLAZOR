@@ -19,6 +19,7 @@ namespace BlaBla.Shared
     using Microsoft.AspNetCore.Blazor.Routing;
     using Microsoft.JSInterop;
     using BlaBla;
+    using BlaBla.Models;
     using BlaBla.Shared;
     public class SurveyPrompt : Microsoft.AspNetCore.Blazor.Components.BlazorComponent
     {

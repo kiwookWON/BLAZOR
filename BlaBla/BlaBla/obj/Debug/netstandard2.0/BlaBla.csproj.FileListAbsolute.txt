@@ -79,3 +79,5 @@ G:\Sample\BLAZOR\BlaBla\BlaBla\obj\Debug\netstandard2.0\blazor\linker\System.Net
 G:\Sample\BLAZOR\BlaBla\BlaBla\obj\Debug\netstandard2.0\blazor\linker\BlaBla.pdb
 G:\Sample\BLAZOR\BlaBla\BlaBla\obj\Debug\netstandard2.0\blazor\inputs.bootjson.cache
 G:\Sample\BLAZOR\BlaBla\BlaBla\obj\Debug\netstandard2.0\blazor\blazor.boot.json
+G:\Sample\BLAZOR\BlaBla\BlaBla\obj\Debug\netstandard2.0\Pages\Todo.g.i.cs
+G:\Sample\BLAZOR\BlaBla\BlaBla\obj\Debug\netstandard2.0\Pages\Todo.g.cs

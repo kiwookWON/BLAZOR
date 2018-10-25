@@ -19,6 +19,7 @@ namespace BlaBla.Pages
     using Microsoft.AspNetCore.Blazor.Routing;
     using Microsoft.JSInterop;
     using BlaBla;
+    using BlaBla.Models;
     using BlaBla.Shared;
     [Microsoft.AspNetCore.Blazor.Layouts.LayoutAttribute(typeof(MainLayout))]
 

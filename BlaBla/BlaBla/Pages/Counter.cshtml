@@ -7,8 +7,10 @@
 <button class="btn btn-primary" onclick="@IncrementCount">Click me</button>
 
 @functions {
+
     [Parameter]
     private int IncrementAmount { get; set; } = 1;
+
     int currentCount = 0;
 
     void IncrementCount()
@@ -16,3 +18,5 @@
         currentCount+= IncrementAmount;
     }
 }
+
+

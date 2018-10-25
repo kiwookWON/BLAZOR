@@ -15,6 +15,7 @@ namespace BlaBla.Shared
     using Microsoft.AspNetCore.Blazor.Routing;
     using Microsoft.JSInterop;
     using BlaBla;
+    using BlaBla.Models;
     using BlaBla.Shared;
     public class MainLayout : BlazorLayoutComponent
     {
