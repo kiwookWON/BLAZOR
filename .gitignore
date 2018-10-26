@@ -3,8 +3,8 @@
 ignore-file.txt
 
 # /로 끝나면 해당 디렉토리 전체를 무시
-.vs/
 
+BlaBla/.vs/
 # 와일드카드도 사용가능
 ignore-file*
 *.log
