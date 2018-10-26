@@ -10,7 +10,8 @@ namespace BlaBla.Class
     {
         public static Task<string> Prompt(string message)
         {
-            return JSRuntime.Current.InvokeAsync<string>("exampleJsFunction.showPrompt", message);
+            return JSRuntime.Current.InvokeAsync<string>
+                ("exampleJsFunction.showPrompt", message);
         }
     }
 }
