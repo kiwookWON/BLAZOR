@@ -1,0 +1,12 @@
+﻿@page "/JsInterop"
+
+<h1>Js Interop</h1>
+
+<button onclick="@Click">Click</button>
+
+@functions{
+    void Click()
+    {
+        Class.ExampleJsInterop.Prompt("잘 작동 할까요?");
+    }
+}
