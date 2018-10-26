@@ -21,6 +21,8 @@ namespace BlaBla.Pages
     using BlaBla;
     using BlaBla.Models;
     using BlaBla.Shared;
+    using BlaBla.Infrastructure;
+    using BlaBla.Repositories;
     [Microsoft.AspNetCore.Blazor.Layouts.LayoutAttribute(typeof(MainLayout))]
 
     [Microsoft.AspNetCore.Blazor.Components.RouteAttribute("/fetchdata")]

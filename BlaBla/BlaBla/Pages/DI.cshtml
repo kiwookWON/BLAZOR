@@ -1,0 +1,24 @@
+﻿@page "/DI"
+
+@inject IRepository Repository
+
+
+<h1>DI Demo</h1>
+
+<ul>
+    @foreach (var student in Students)
+    {
+        <li>이름 : @student.Name (@student.Grade)</li>
+    }
+</ul>
+
+@functions{
+
+    private IReadOnlyList<Student> Students;
+
+    protected override void OnInit()
+    {
+        Students =  Repository.GetStudents();
+    }
+
+}

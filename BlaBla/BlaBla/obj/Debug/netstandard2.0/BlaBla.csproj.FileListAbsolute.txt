@@ -178,3 +178,5 @@ C:\Users\johnr\Documents\BLAZOR\BlaBla\BlaBla\obj\Debug\netstandard2.0\blazor\in
 C:\Users\johnr\Documents\BLAZOR\BlaBla\BlaBla\obj\Debug\netstandard2.0\blazor\blazor.boot.json
 C:\Users\johnr\Documents\BLAZOR\BlaBla\BlaBla\obj\Debug\netstandard2.0\Pages\JsInterop.g.i.cs
 C:\Users\johnr\Documents\BLAZOR\BlaBla\BlaBla\obj\Debug\netstandard2.0\Pages\JsInterop.g.cs
+C:\Users\johnr\Documents\BLAZOR\BlaBla\BlaBla\obj\Debug\netstandard2.0\Pages\DI.g.i.cs
+C:\Users\johnr\Documents\BLAZOR\BlaBla\BlaBla\obj\Debug\netstandard2.0\Pages\DI.g.cs

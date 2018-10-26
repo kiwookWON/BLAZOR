@@ -17,6 +17,8 @@ namespace BlaBla.Shared
     using BlaBla;
     using BlaBla.Models;
     using BlaBla.Shared;
+    using BlaBla.Infrastructure;
+    using BlaBla.Repositories;
     public class SubLayout : BlazorLayoutComponent
     {
         #pragma warning disable 1998
