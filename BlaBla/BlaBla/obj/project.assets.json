@@ -168,7 +168,6 @@
       "sha512": "BVsxRHZdrys71/unLirfic31OnISc21bKJFqwzSSdj031svichjlaZurUX5/VCKZsRWMoSvKspLgfpnwIE45+Q==",
       "type": "package",
       "path": "microsoft.aspnetcore.blazor.build/0.6.0",
-      "hasTools": true,
       "files": [
         ".signature.p7s",
         "build/netstandard1.0/Microsoft.AspNetCore.Blazor.Build.props",
@@ -425,7 +424,6 @@
       "sha512": "ab4+TZw3Sxqrr5TwrwVyABeQkhSxYMJXgG6yZw7T+r6Vz+hcOt+pK79o15ESG7kZvWAK9wRG7emnTIia5O6R1Q==",
       "type": "package",
       "path": "microsoft.aspnetcore.razor.design/2.1.2",
-      "hasTools": true,
       "files": [
         ".signature.p7s",
         "build/netstandard2.0/Microsoft.AspNetCore.Razor.Design.CodeGeneration.targets",
@@ -448,7 +446,7 @@
       ]
     },
     "Microsoft.Extensions.DependencyInjection/2.1.0": {
-      "sha512": "9lHaNBx9sW5I4Lxfb/jyKYgnyjggqST0bnkpyVNIudJtqoXayiVDO8GCIC+S3YRK+JM2oviDJh4X5tJzdXJoSg==",
+      "sha512": "HG/PMzoRWkHk+XHknD7J2q/UmeXF8eqqwDEfgvNL6nkOITcYgp3r+pCCPHD0dxVXtZjaFru7PoYxmvq2NcJy6Q==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection/2.1.0",
       "files": [
@@ -464,7 +462,7 @@
       ]
     },
     "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {
-      "sha512": "Y139tetrEc1Y347FoOK8Oqm1S0aq8jPg5m6L4ti9N7ki0o4amSa7XOq048EhpeQnO/9jrVJKlqBdq/aQduW31A==",
+      "sha512": "6Krshi1mFyDQ+NZSgyxv4GN9I45TXjmXTHJZ3c7x24m/IV2iy7euEivIdYpQXdBGzzslZcHBS9ElN2Cs7n6wpQ==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection.abstractions/2.1.0",
       "files": [
@@ -646,34 +644,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\원기욱\\.nuget\\packages\\": {},
+    "C:\\Users\\johnr\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Sample\\BLAZOR\\BlaBla\\BlaBla\\BlaBla.csproj",
+      "projectUniqueName": "C:\\Users\\johnr\\Documents\\BLAZOR\\BlaBla\\BlaBla\\BlaBla.csproj",
       "projectName": "BlaBla",
-      "projectPath": "G:\\Sample\\BLAZOR\\BlaBla\\BlaBla\\BlaBla.csproj",
-      "packagesPath": "C:\\Users\\원기욱\\.nuget\\packages\\",
-      "outputPath": "G:\\Sample\\BLAZOR\\BlaBla\\BlaBla\\obj\\",
+      "projectPath": "C:\\Users\\johnr\\Documents\\BLAZOR\\BlaBla\\BlaBla\\BlaBla.csproj",
+      "packagesPath": "C:\\Users\\johnr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\johnr\\Documents\\BLAZOR\\BlaBla\\BlaBla\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\원기욱\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+        "C:\\Users\\johnr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\DevExpress 17.1\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
-        "D:\\DevExpress 17.2\\Components\\Bin\\Framework": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
