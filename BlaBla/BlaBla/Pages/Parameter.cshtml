@@ -1,0 +1,14 @@
+﻿@page  "/Parameter"
+@page  "/Parameter/{param}"
+
+<h1>Parameter Sample</h1>
+
+<p>
+    @param
+</p>
+
+@functions{
+
+    [Parameter]
+    private string param { get; set; } = "Empty";
+}
